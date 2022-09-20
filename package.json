@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Felipe-builder/JS_expert_2022#readme",
   "devDependencies": {
-    "sinon": "^9.2.4"
+    "mocha": "^8.4.0",
+    "sinon": "^9.2.4",
+    "supertest": "^6.2.4"
   }
 }
